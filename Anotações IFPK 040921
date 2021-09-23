@@ -1,29 +1,26 @@
+Processpr para realizar o git clone e necessario copiar o HTTPS do repositorio que deseja copiar 
 
-
-
-para realizar o git clone e necessario copiar o HTTPS do repositorio que deseja copiar 
-
-comando: git clone linkHTTPSdogitequedesejarclonar
+Comando: git clone linkHTTPSdogitequedesejarclonar
 
 Iniciar o git no diretorio local
 comando: git init
 
 
-
 git . //seleciona todos os aquivos da pasta
-
-
 
 
 Processo para modificar aquivos remotamente no git 
 
 1- Adicionar aqruivos no git
+
 Git add nomedoaqruivo.txt
 
 2- commit infor as modificaçoes 
+
 comando: git commit -m "modificando teste"
 
 3-Subindo aquivos no git
+
 comando: git push
 
 
