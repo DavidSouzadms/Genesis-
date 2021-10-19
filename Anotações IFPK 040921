@@ -26,3 +26,8 @@ comando: git push
 
 https://placeholder.com/  *site para verificar imagnes com tipos de resolução*
 
+**feature_n é o nome do branch.
+
+Se você deseja retornar ao master branch, o seguinte comando pode ser usado:
+
+git checkout master
